@@ -1,9 +1,9 @@
-# Proj Title
-By Keturah Howard, February 2024
+# Code Fail Vindication
+By Keturah Smith, February 2024
 
 ## Descsription
 
-This is a mobile friendly web-app that will serve as a place to showcase my growth as a developer. When I come accross things I dont know during code challenges, I will make note of it here, and then succesfully implement an example of it as its own page in this. 
+This is a mobile friendly web-app that will serve as a place to showcase my growth as a developer. When I come accross things I dont know during code challenges, I will make note of it here, and then succesfully implement an example of it as its own page in this.
 
 Live site coming soon. 🚧👷‍♀️
 
